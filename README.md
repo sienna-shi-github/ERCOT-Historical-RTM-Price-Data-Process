@@ -11,7 +11,7 @@ https://www.ercot.com/mp/data-products/data-product-details?id=NP6-785-ER
 3. Next, the code will read in the pickle file and save each individual year as CSV files.
 
 #### Warning
-This code takes a while to run because reading Excel file and iterating through tabs takes a long time.
+This code takes a while to run because reading Excel file and iterating through each sheet takes a long time.
 
 TODO:
 - [ ] Make it into a function that lets user select the years
